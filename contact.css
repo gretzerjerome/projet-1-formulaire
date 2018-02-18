@@ -1,0 +1,71 @@
+*
+{
+  font-family: bellota;
+}
+body {
+
+     background-color: #FFFFFF;
+     margin-left: 400px;
+     margin-right: 400px;
+     margin-top: 30px;
+     padding-bottom: 20px;
+     font-weight: 600;
+     border-top: 3px solid #15c5bd;
+     background : url(background.jpg)no-repeat center center fixed;
+
+
+
+}
+
+.logo {
+     text-align: center;
+     background-color: #FFFFFF;
+     border-right: 5px solid #15c5bd;
+     border-left: 5px solid #15c5bd;
+}
+
+.coordonnees {
+    background-color: #FFFFFF;
+    border-bottom: 5px solid #15c5bd ;
+    font-weight: 500;
+    border-top: 3px solid #15c5bd;
+    border-right: 5px solid #15c5bd;
+    border-left: 5px solid #15c5bd;
+
+
+
+}
+
+.message {
+    background-color: #FFFFFF;
+    font-weight: 400;
+    border-top: 3px solid #15c5bd;
+
+}
+
+textarea {
+    height: 450px;
+    width : 300px;
+    min-width: 200;
+    min-height: 150px;
+    max-width: 500px;
+    max-height: 400px;
+    display: block;
+
+}
+
+.radio {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.genre {
+  padding-top: 10px;
+  padding-bottom: 10px
+
+}
+
+
+}
